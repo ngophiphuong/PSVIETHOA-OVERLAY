@@ -12,6 +12,22 @@ Chỉ cần **một file**: `psvh_overlay.elf`.
 
 ---
 
+## Ảnh demo
+
+<p align="center">
+  <img src="screenshots/hud_ingame.webp" height="300" alt="HUD trong game">
+  &nbsp;
+  <img src="screenshots/cheat_menu.webp" height="300" alt="Menu cheat trong game">
+</p>
+<p align="center"><i>HUD hiện thông số ngay trong game · Menu cheat mở bằng L1+R1 (Ghost of Yōtei)</i></p>
+
+<p align="center">
+  <img src="screenshots/web_settings.webp" width="90%" alt="Trang cài đặt trên web">
+</p>
+<p align="center"><i>Trang cài đặt mở ngay trên PS5 hoặc từ máy tính / điện thoại (cổng 8386)</i></p>
+
+---
+
 ## Tính năng
 
 - **HUD trong game**: FPS, nhiệt CPU / GPU / SSD, tải CPU, xung nhịp CPU / GPU,

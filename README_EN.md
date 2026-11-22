@@ -13,6 +13,22 @@ All you need is **one file**: `psvh_overlay.elf`.
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/hud_ingame.webp" height="300" alt="In-game HUD">
+  &nbsp;
+  <img src="screenshots/cheat_menu.webp" height="300" alt="In-game cheat menu">
+</p>
+<p align="center"><i>Live stats on top of the game · Cheat menu opened with L1+R1 (Ghost of Yōtei)</i></p>
+
+<p align="center">
+  <img src="screenshots/web_settings.webp" width="90%" alt="Web settings page">
+</p>
+<p align="center"><i>Settings page, opened on the PS5 itself or from a PC / phone (port 8386)</i></p>
+
+---
+
 ## Features
 
 - **In-game HUD**: FPS, CPU / GPU / SSD temperature, CPU load, CPU / GPU clock,
