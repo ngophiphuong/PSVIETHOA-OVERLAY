@@ -16,9 +16,9 @@ All you need is **one file**: `psvh_overlay.elf`.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/hud_ingame.webp" height="300" alt="In-game HUD">
+  <img src="screenshots/hud_ingame.webp" height="250" alt="In-game HUD">
   &nbsp;
-  <img src="screenshots/cheat_menu.webp" height="300" alt="In-game cheat menu">
+  <img src="screenshots/cheat_menu.webp" height="250" alt="In-game cheat menu">
 </p>
 <p align="center"><i>Live stats on top of the game · Cheat menu opened with L1+R1 (Ghost of Yōtei)</i></p>
 

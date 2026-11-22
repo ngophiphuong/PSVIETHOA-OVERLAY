@@ -15,9 +15,9 @@ Chỉ cần **một file**: `psvh_overlay.elf`.
 ## Ảnh demo
 
 <p align="center">
-  <img src="screenshots/hud_ingame.webp" height="300" alt="HUD trong game">
+  <img src="screenshots/hud_ingame.webp" height="250" alt="HUD trong game">
   &nbsp;
-  <img src="screenshots/cheat_menu.webp" height="300" alt="Menu cheat trong game">
+  <img src="screenshots/cheat_menu.webp" height="250" alt="Menu cheat trong game">
 </p>
 <p align="center"><i>HUD hiện thông số ngay trong game · Menu cheat mở bằng L1+R1 (Ghost of Yōtei)</i></p>
 
