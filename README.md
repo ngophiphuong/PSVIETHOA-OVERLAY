@@ -104,6 +104,7 @@ hiện tiếng Anh. Áp dụng cho trang web, menu cheat và thông báo. Đổi
 | Đường dẫn | Là gì |
 |---|---|
 | `/data/PSVIETHOA/config.ini` | Cài đặt, sửa tay được. Mỗi lần nạp ELF đều đọc lại. |
+| `/data/PSVIETHOA/config.ini.bak` | Bản cài đặt trước lần lưu gần nhất, lỡ mất thì chép đè lại `config.ini` |
 | `/data/PSVIETHOA/cheat/` | Thư mục để file cheat |
 | `/data/PSVIETHOA/cheat_tu_bat.txt` | Danh sách cheat tự bật lại |
 | `/data/PSVIETHOA/logo.png` | Logo cho thông báo (ELF tự ghi ra) |
@@ -112,8 +113,8 @@ hiện tiếng Anh. Áp dụng cho trang web, menu cheat và thông báo. Đổi
 ## Mã kiểm tra
 
 ```
-psvh_overlay.elf   945392 byte
-SHA-256  a5980efe5c944551ca061654269908af208adac8b597bf87b0e9466b9e71ecd6
+psvh_overlay.elf   945488 byte
+SHA-256  48c95107ea2cbcd0546d530708e5b403b5ef3c12181080f6dc5dffc0512ac971
 ```
 
 ## Ghi công

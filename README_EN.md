@@ -108,6 +108,7 @@ Change it in the **System** tab → **Language**, then press **Save and apply to
 | Path | What it is |
 |---|---|
 | `/data/PSVIETHOA/config.ini` | Settings; can be edited by hand. Read again every time the ELF loads. |
+| `/data/PSVIETHOA/config.ini.bak` | Settings as they were before the last save; copy it over `config.ini` to restore |
 | `/data/PSVIETHOA/cheat/` | Folder for cheat files |
 | `/data/PSVIETHOA/cheat_tu_bat.txt` | Cheats that are turned back on automatically |
 | `/data/PSVIETHOA/logo.png` | Logo used by notifications (written by the ELF) |
@@ -116,8 +117,8 @@ Change it in the **System** tab → **Language**, then press **Save and apply to
 ## Checksum
 
 ```
-psvh_overlay.elf   945392 bytes
-SHA-256  a5980efe5c944551ca061654269908af208adac8b597bf87b0e9466b9e71ecd6
+psvh_overlay.elf   945488 bytes
+SHA-256  48c95107ea2cbcd0546d530708e5b403b5ef3c12181080f6dc5dffc0512ac971
 ```
 
 ## Credits
