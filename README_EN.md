@@ -122,8 +122,6 @@ SHA-256  a5980efe5c944551ca061654269908af208adac8b597bf87b0e9466b9e71ecd6
 
 ## Credits
 
-Made by **PSVIETHOA.COM**. Based on
-[ps5-new-overlay](https://github.com/smoxa/ps5-new-overlay); the ELF loading code
-is by John Törnblom.
+Made by **PSVIETHOA.COM**. 
 
 Use at your own risk. Not affiliated with Sony Interactive Entertainment.
