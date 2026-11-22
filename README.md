@@ -33,8 +33,9 @@ Chỉ cần **một file**: `psvh_overlay.elf`.
 - **HUD trong game**: FPS, nhiệt CPU / GPU / SSD, tải CPU, xung nhịp CPU / GPU,
   RAM, VRAM, tốc độ quạt, điện năng tiêu thụ, địa chỉ IP. Bật/tắt từng mục, đổi
   thứ tự, màu, vị trí, cỡ chữ.
-- **Ghi đè quạt**: đặt nhiệt độ CPU mục tiêu (đúng số CPU trên HUD). Hạ mục tiêu thì
-  quạt quay mạnh hơn, máy mát hơn.
+- **Ghi đè quạt**: đặt nhiệt độ CPU mục tiêu (đúng số CPU trên HUD). CPU chạm mục
+  tiêu thì quạt được ép quay mạnh, CPU xuống dưới mục tiêu 3 °C thì trả quạt về cho
+  máy tự lo ngay. Tab Làm mát hiện cả % quạt thật đang chạy.
 - **Menu cheat trong game**: giữ **L1+R1** (đổi được) để mở. Tự nhận ra game đang
   chạy và nạp đúng file cheat.
 - **Đọc 3 định dạng cheat**: `.json`, `.shn`, `.mc4`.
@@ -130,7 +131,7 @@ hiện tiếng Anh. Áp dụng cho trang web, menu cheat và thông báo. Đổi
 
 ```
 psvh_overlay.elf   945488 byte
-SHA-256  b732a2771ef846386f36a799701fe518528161206f13ea7265da050fccba4f12
+SHA-256  3bad074ef297de4ed926b228849f7e252f172b6dc899cf27b786102eca622d87
 ```
 
 ## Ghi công

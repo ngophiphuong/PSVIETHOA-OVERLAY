@@ -34,8 +34,9 @@ All you need is **one file**: `psvh_overlay.elf`.
 - **In-game HUD**: FPS, CPU / GPU / SSD temperature, CPU load, CPU / GPU clock,
   RAM, VRAM, fan speed, power draw, IP address. Toggle each item, reorder them,
   change colors, position and font size.
-- **Fan override**: set a target CPU temperature (the CPU number on the HUD). A lower
-  target spins the fan harder and keeps the console cooler.
+- **Fan override**: set a target CPU temperature (the CPU number on the HUD). When the
+  CPU reaches the target the fan is forced up; when it drops 3 °C below, the fan goes
+  straight back to the console. The Cooling tab also shows the real fan speed.
 - **In-game cheat menu**: hold **L1+R1** (configurable) to open it. It detects the
   running game and loads the matching cheat file.
 - **Three cheat formats**: `.json`, `.shn`, `.mc4`.
@@ -134,7 +135,7 @@ Change it in the **System** tab → **Language**, then press **Save and apply to
 
 ```
 psvh_overlay.elf   945488 bytes
-SHA-256  b732a2771ef846386f36a799701fe518528161206f13ea7265da050fccba4f12
+SHA-256  3bad074ef297de4ed926b228849f7e252f172b6dc899cf27b786102eca622d87
 ```
 
 ## Credits
