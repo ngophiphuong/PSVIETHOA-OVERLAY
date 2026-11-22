@@ -118,8 +118,6 @@ SHA-256  a5980efe5c944551ca061654269908af208adac8b597bf87b0e9466b9e71ecd6
 
 ## Ghi công
 
-Phát triển bởi **PSVIETHOA.COM**. Dựa trên
-[ps5-new-overlay](https://github.com/smoxa/ps5-new-overlay); phần nạp ELF dùng
-code của John Törnblom.
+Phát triển bởi **PSVIETHOA.COM**.
 
 Dùng với rủi ro của bạn. Không liên quan tới Sony Interactive Entertainment.
