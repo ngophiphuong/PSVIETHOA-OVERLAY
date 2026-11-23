@@ -33,7 +33,10 @@ All you need is **one file**: `psvh_overlay.elf`.
 
 - **In-game HUD**: FPS, CPU / GPU / SSD temperature, CPU load, CPU / GPU clock,
   RAM, VRAM, fan speed, power draw, IP address. Toggle each item, reorder them,
-  change colors, position and font size.
+  change position and font size. Lay it out as a **vertical column** (one item per
+  line) or a **horizontal row** (separated by `|`, wrapping when too long). Set the
+  **label color** and **value color** of each item; temperature and load can change
+  color by level.
 - **Fan override**: set a target CPU temperature (the CPU number on the HUD). When the
   CPU reaches the target the fan is forced up; when it drops 3 °C below, the fan goes
   straight back to the console. The Cooling tab also shows the real fan speed.
@@ -134,8 +137,8 @@ Change it in the **System** tab → **Language**, then press **Save and apply to
 ## Checksum
 
 ```
-psvh_overlay.elf   945488 bytes
-SHA-256  3bad074ef297de4ed926b228849f7e252f172b6dc899cf27b786102eca622d87
+psvh_overlay.elf   961872 bytes
+SHA-256  67dc4a889b3da4ecfa90c1f6baf651ed7a2aae3f2e4ec068d0ad6073fad65ab7
 ```
 
 ## Credits
